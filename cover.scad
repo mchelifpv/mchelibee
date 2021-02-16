@@ -7,8 +7,8 @@ offst=5.52;
 // Left-right offset / разбег ячеек в стороны
 rloffst=0.5;
 
-//cover();
-coverprint();
+cover();
+//coverprint();
 
 module cellone1(){
     rotate([0,0,30]) cylinder(d=size,h=1,$fn=6,center=true);
