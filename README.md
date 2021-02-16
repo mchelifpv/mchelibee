@@ -21,3 +21,6 @@
 * Nozzle: 0.4mm
 * Layers: 0.15mm
 * Perimeters: 2
+
+## Result
+![Sample](/image.jpg)
