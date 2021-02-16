@@ -1,6 +1,6 @@
 # MCHeliBee
 
-3D-printed lowrider mod for 65/75mm tinywhoop frames
+3D-printed lowrider mod for Runcam Nano 3 and 65/75mm tinywhoop frames
 
 ## How to make
 1. Download sources
