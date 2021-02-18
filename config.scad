@@ -26,6 +26,7 @@ lenshgt=4.95; // [3.75:0.05:5.2]
 // Mobula6/Moblite6 - 18.5mm
 // BetaFPV Meteor65 - 19mm
 // Mobula7 V2 - 27mm
+// Meteor75 - 28.5mm
 mntoffst=18.5; // [15:0.5:35]
 
 // FC mount size // Размер крепления полетного контроллера
