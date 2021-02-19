@@ -32,7 +32,7 @@ mntoffst=18.5; // [15:0.5:35]
 // FC mount size // Размер крепления полетного контроллера
 // BetaFPV/Happymodel brushless - 18.385mm
 // Eachine/Happymodel brushed - 18mm
-fcmntsize=18.385; // BetaFPV 18.385mm
+fcmntsize=18.385; // [18:0.385:18.385]
 
 // Mount holes diameter // Диаметр крепежных отверстий.
 m14hole=1.4; // [1:0.1:1.5]
@@ -41,17 +41,18 @@ m14hole=1.4; // [1:0.1:1.5]
 coverthick=0.3; // [0.3:0.15:0.6]
 
 // Camera mount thickness / Толщина крепления камеры
-mntthick=0.9;
+mntthick=0.9; // [0.6:0.15:1.2]
 
 // Mount width / Ширина палки
-mntwdth=6.2;
+mntwdth=6.2; // [5:0.1:8]
 
 // Beeper position / Положение пищалки
 // iFlight A65/NBD Brushless Cockroach - 8mm
 // Mobula6/Moblite6 - 14mm
 // BetaFPV Meteor65 - 8mm
 // Mobula7 V2 - 12mm
-beepoffst=0;
+// Meteor75 - 13mm
+beepoffst=0; // [0:0.5:16]
 
-// Beeper diameter / Диаметр пищалку
+// Hole diameter for beeper / Диаметр отверстия под пищалку
 beepdiam=9.15;
