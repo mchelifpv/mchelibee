@@ -44,7 +44,7 @@ coverthick=0.3; // [0.3:0.15:0.6]
 mntthick=0.9; // [0.6:0.15:1.2]
 
 // Mount width / Ширина палки
-mntwdth=6.2; // [5:0.1:8]
+mntwdth=6; // [5:0.1:8]
 
 // Beeper position / Положение пищалки
 // iFlight A65/NBD Brushless Cockroach - 8mm
