@@ -16,10 +16,10 @@ prnsp=0.225; // [0:0.05:0.5]
 lensdiam=7.1; // [7.0:0.05:8.5]
 
 // Lens height  / Высота линзы
-// Runcam Nano 3 old lens and newest via Moblite - 4.95
-// Runcam Nano 3 new lens - 3.9
+// Runcam Nano 3 old lens and newest via Moblite - 5.1
+// Runcam Nano 3 new lens - 4.05
 // Runcam Nano 4 lens - ?
-lenshgt=4.95; // [3.75:0.05:5.2]
+lenshgt=5.1; // [3.75:0.05:5.4]
 
 // Offset from lens mount to front FC mount / Отступ от центра линзы до крепления полетника
 // iFlight A65/NBD Brushless Cockroach - 19mm
