@@ -3,7 +3,7 @@ include <config.scad>
 // Cell size / Размер ячеек
 size=4.6;
 // Offset / Смещение ячеек
-offst=5.52;
+offst=5.53;
 // Left-right offset / разбег ячеек в стороны
 rloffst=0.5;
 
