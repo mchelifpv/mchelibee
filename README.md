@@ -15,7 +15,7 @@
 * U3 NYLON SC M3
 * PrintProduct TiTi Flex Hard
 * REC3D TPU D70
-* ESUN ePA-CF
+* [eSUN ePA-CF](https://s.click.aliexpress.com/e/_ALM9VD)
 
 ## Print options
 * Nozzle: 0.4mm
